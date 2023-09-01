@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: hypertabs
+    name: dingdong
     env: node
     plan: free
     buildCommand: npm install
